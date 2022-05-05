@@ -1,6 +1,6 @@
-# untitled
+# emotiondetect
 
-A new Flutter project.
+A flutter app to detect emotions.
 
 ## Getting Started
 
